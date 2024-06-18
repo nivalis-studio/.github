@@ -1,5 +1,3 @@
-![Header](./profile/header.png)
-
 ## We are Nivalis Studio
 
 ### Dedicated to crafting digital experiences
