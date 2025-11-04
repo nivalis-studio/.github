@@ -1,10 +1,10 @@
-## We are Nivalis Studio
+### we are nivalis
 
-### Dedicated to crafting digital experiences
+A small team of passionate developers. \
+We move fast, think big, and never back down from a challenge. \
+We’re here to take you out of your comfort zone and build stable software that stand the test of time.
 
-A team of experts combining aesthetic intuition with tech-savvy execution.
-<br/>Our approach ensures each project is both visually stunning and
-functionally robust.
+[@nivalis.studio](https://nivalis.studio) 🏴
 
 <!--
 Made with 🖤
